@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-function exportMachine () {
+function exportMachine {
 
     NAME=$1
 

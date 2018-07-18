@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-function importMachine () {
+function importMachine {
 
     TARGET=$1
     filename=$(basename "$TARGET")
